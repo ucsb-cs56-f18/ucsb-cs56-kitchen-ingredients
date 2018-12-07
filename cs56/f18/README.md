@@ -6,7 +6,7 @@ F18 Final Remarks:
 
 2. Try to refactor into Java code rather than JavaScript.
 
-3. Finish CSSing. (App is fugly).
+3. Finish CSSing. (App is ugly).
 
 4. Most of the base app is there. You just need to add the matching function to fully complete the intended purpose of the app.
 
